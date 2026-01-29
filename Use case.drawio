@@ -2453,6 +2453,12 @@
             <mxPoint x="450" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-md_3OKfMKIMGE0l_p3m-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Ya" vertex="1">
+          <mxGeometry height="30" width="40" x="525" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="-md_3OKfMKIMGE0l_p3m-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Tidak" vertex="1">
+          <mxGeometry height="30" width="50" x="425" y="790" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
